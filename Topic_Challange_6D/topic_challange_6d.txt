@@ -1,0 +1,40 @@
+Topic challenge 6D:
+For the Project we have following 5 criteria’s:
+- Ease to Setup
+- Performance and Efficiency 
+- Cross platform compatible 
+- System requirements
+- Single user Accessibility
+
+Rank 0-5:  
+RankCostly    Somewhat costlyReasonable Decent price Good priceGreat priceEase to Setup 012345
+
+Rank 0-5:  
+RankRequires special requirement    Some special requirementsNot much requiredEasy to run Can be run of any computerUsed with minimum requirements Performance and Efficiency 
+012345
+
+
+Rank 0-5:  
+RankNot compatible    Somewhat compatibleMin specs required Compatible with windowsCross platform (windows and android)Compatible with anyCross platform compatible 
+012345
+
+
+Rank 0-5:  
+RankHigh requirement   Somewhat highmedium  Minimum requirement Some requirementsNo requirementsSystem requirements
+012345
+Rank 0-5:  
+RankNot compatible  restrictionsLess features  Decent accessibility Good accessibilitySingle user accessibleSingle user Accessibility
+012345
+DatabasesEase of SetupPerformance & EfficiencyRoss platform compatibleSystem requirementsSingle user AccessibilityTotalMSSQL
+34234288Oracle
+34334432SQLite
+555553125MySQL (or MariaDB)
+444441024PostgreSQL
+444441024Microsoft Access
+53244480LibreOffice Base
+535551875
+
+criteriaDo not considerNot recommendedusableconsiderableRecommendedHighly recommendedrange505001000150025003125
+‘’’
+Based on the scores, SQLite and LibreOffice Base are the top choices, with SQLite scoring slightly higher. Therefore, SQLite is the best database for this phase of the project.
+‘’'
